@@ -19,8 +19,7 @@
     <main class="mt-8 font-body">
       <a
         href="mailto:mr.sauli@gmail.com"
-        tabindex="0"
-        class="bg-gray-400 text-gray-900 px-4 py-3 hover:bg-gray-100 hover:text-gray-800 rounded-lg tracking-wide uppercase"
+        class="border border-gray-400 text-gray-400 px-4 py-3 hover:bg-gray-100 hover:text-gray-800 rounded-lg tracking-wide uppercase"
         >contact us</a
       >
     </main>
