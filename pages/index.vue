@@ -34,6 +34,6 @@ header h1 {
 }
 
 main a {
-  transition: all 0.3s;
+  transition: all 0.2s;
 }
 </style>
