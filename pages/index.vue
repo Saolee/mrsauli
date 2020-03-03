@@ -1,6 +1,6 @@
 <template>
   <div
-    class="mx-auto text-center max-w-screen-lg flex flex-col items-center tex h-screen justify-center"
+    class="mx-auto text-center max-w-screen-lg flex flex-col items-center h-screen justify-center"
   >
     <header class>
       <h1 class="font-display font-bold text-gray-100">
@@ -17,6 +17,7 @@
     <main class="mt-8">
       <a
         href="mailto:mr.sauli@gmail.com"
+        tabindex="0"
         class="bg-gray-400 text-gray-900 px-4 py-3 hover:bg-gray-300 focus:bg-gray-300 rounded-lg uppercase"
       >contact us</a>
     </main>
